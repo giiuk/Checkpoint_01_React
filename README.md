@@ -25,22 +25,22 @@ O usuário pode adicionar filmes a uma lista através de um formulário.
 
 ## 📂 Como executar lcoalmente
 
-- 1. Clone o repositório em seu diretório 
+1. Clone o repositório em seu diretório 
 ```
 git clone https://github.com/giiuk/Checkpoint_01_React.git
 ```
-- 2. Entre na pasta que foi clonada
+2. Entre na pasta que foi clonada
  ```
 cd Checkpoint_01_React
 ```
-- 3. Instale as bibliotecas necessárias
+3. Instale as bibliotecas necessárias
 ```
 npm install
 ```
 
-- 4. Rode o programa
+4. Rode o programa
 ```
 npm run dev
 ```
 
-- 5. Acesse a URL disponibilizada na linha de comando
+5. Acesse a URL disponibilizada na linha de comando
