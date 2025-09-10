@@ -44,3 +44,11 @@ npm run dev
 ```
 
 5. Acesse a URL disponibilizada na linha de comando
+
+---
+
+##🫂 Integrantes
+
+Dennis Nieto Generoso RM563671
+Giovanna da Silva Santos RM566301
+Giovanna Luiza Bento RM563203
