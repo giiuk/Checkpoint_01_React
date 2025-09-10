@@ -14,7 +14,7 @@ function Filmes() {
       <ul className="space-y-2">
         {filmes.map((filme) => (
           <li
-            className="p-4 border rounded-lg shadow-sm bg-pink-50"
+            className="p-4 border rounded-lg shadow-sm bg-purple-50"
           >
             <h3 className="text-lg font-medium">{filme.titulo}</h3>
             <p className="text-sm text-gray-600">{filme.ano}</p>

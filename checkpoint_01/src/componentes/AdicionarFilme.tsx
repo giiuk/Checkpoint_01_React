@@ -23,7 +23,7 @@ function AdicionarFilme({ onAddFilme }) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="p-4 bg-pink rounded-lg shadow-md border max-w-md mx-auto mt-6"
+      className="p-4 bg-purple rounded-lg shadow-md border max-w-md mx-auto mt-6"
     >
       <h2 className="text-lg font-semibold mb-4 text--800">Adicionar Filme</h2>
       <div className="mb-3">
@@ -32,7 +32,7 @@ function AdicionarFilme({ onAddFilme }) {
           placeholder="Título do filme"
           value={titulo}
           onChange={(e) => setTitulo(e.target.value)}
-          className="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-pink-400"
+          className="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400"
         />
       </div>
       <div className="mb-3">
@@ -41,12 +41,12 @@ function AdicionarFilme({ onAddFilme }) {
           placeholder="Ano de lançamento"
           value={ano}
           onChange={(e) => setAno(e.target.value)}
-          className="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-pink-400"
+          className="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400"
         />
       </div>
       <button
         type="submit"
-        className="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-pink-700 transition"
+        className="w-full bg-purple-950 text-white py-2 rounded-lg hover:bg-purple-700 transition"
       >
         Adicionar
       </button>
