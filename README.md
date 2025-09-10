@@ -47,8 +47,8 @@ npm run dev
 
 ---
 
-##🫂 Integrantes
+## 🫂 Integrantes
 
-Dennis Nieto Generoso RM563671
-Giovanna da Silva Santos RM566301
-Giovanna Luiza Bento RM563203
+- Dennis Nieto Generoso RM563671
+- Giovanna da Silva Santos RM566301
+- Giovanna Luiza Bento RM563203
